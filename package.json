@@ -1,0 +1,39 @@
+{
+  "name": "rgbtohex",
+  "version": "1.0.0",
+  "description": "Convert RGB color codes to HEX HTML format for use in web design and CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-beta.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianpolak/rgbtohex.git"
+  },
+  "keywords": [
+    "rgb",
+    "rgbtohex",
+    "hex",
+    "convert",
+    "conversion",
+    "converter",
+    "color",
+    "html",
+    "css",
+    "code",
+    "rgb2hex"
+  ],
+  "author": {
+    "name": "Damian Polak",
+    "email": "deeppurple044@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damianpolak/rgbtohex/issues"
+  },
+  "homepage": "https://github.com/damianpolak/rgbtohex#readme",
+  "dependencies": {}
+}
