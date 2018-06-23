@@ -8,23 +8,23 @@
 const rgbaHex = require('rgba-hex');
 
 // 6 digits hexadecimal notation
-rgbToHex(2,3,4);
+rgbaHex(2,3,4);
 // returns '020304'
-rgbToHex(255,0,255);
+rgbaHex(255,0,255);
 // returns 'FF00FF'
-rgbToHex(200,123,49);
+rgbaHex(200,123,49);
 // returns 'C87B31'
-rgbToHex(123,97,1);
+rgbaHex(123,97,1);
 // returns '7B6101'
 
 // 3 digits hexadecimal notation
-rgbToHex(2,3,4, true);
+rgbaHex(2,3,4, true);
 // returns '000'
-rgbToHex(255,0,255, true);
+rgbaHex(255,0,255, true);
 // returns 'F0F'
-rgbToHex(200,123,49, true);
+rgbaHex(200,123,49, true);
 // returns 'C73'
-rgbToHex(123,97,1, true);
+rgbaHex(123,97,1, true);
 // returns '760'
 ```
 
