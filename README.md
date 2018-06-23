@@ -1,4 +1,4 @@
-# rgbtohex
+# rgba-hex
 
 > Convert RGB values of a color to a hexadecimal notation 6-digit or 3-digit string
 
