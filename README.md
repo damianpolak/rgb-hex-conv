@@ -5,7 +5,7 @@
 ## Usage
 
 ```js
-const rgbToHex = require('rgbtohex');
+const rgbaHex = require('rgba-hex');
 
 // 6 digits hexadecimal notation
 rgbToHex(2,3,4);
