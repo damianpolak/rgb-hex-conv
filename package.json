@@ -1,13 +1,13 @@
 {
   "name": "rgb-hex-conv",
-  "version": "1.0.0",
-  "description": "Convert RGB color codes to HEX HTML format for use in web design and CSS",
+  "version": "1.0.2",
+  "description": "Convert RGB color codes to hexadecimal 6 digits or 3 digits format for use in web design and CSS.",
   "main": "index.js",
   "scripts": {
     "test": "ava"
   },
   "devDependencies": {
-    "ava": "1.0.0-beta.6"
+    "ava": "^1.0.0-beta.6"
   },
   "repository": {
     "type": "git",
@@ -40,6 +40,5 @@
   "bugs": {
     "url": "https://github.com/damianpolak/rgb-hex-conv/issues"
   },
-  "homepage": "https://github.com/damianpolak/rgb-hex-conv#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/damianpolak/rgb-hex-conv#readme"
 }
