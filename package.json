@@ -1,5 +1,5 @@
 {
-  "name": "rgba-hex",
+  "name": "rgb-hex-conv",
   "version": "1.0.0",
   "description": "Convert RGB color codes to HEX HTML format for use in web design and CSS",
   "main": "index.js",
@@ -11,12 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damianpolak/rgba-hex.git"
+    "url": "git+https://github.com/damianpolak/rgb-hex-conv.git"
   },
   "keywords": [
     "rgb",
     "rgba",
     "rgbatohex",
+    "rgb-hex-conv",
     "hex",
     "short",
     "shorthand",
@@ -37,8 +38,8 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/damianpolak/rgba-hex/issues"
+    "url": "https://github.com/damianpolak/rgb-hex-conv/issues"
   },
-  "homepage": "https://github.com/damianpolak/rgba-hex#readme",
+  "homepage": "https://github.com/damianpolak/rgb-hex-conv#readme",
   "dependencies": {}
 }
