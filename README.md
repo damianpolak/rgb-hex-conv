@@ -1,4 +1,4 @@
-# rgb-hex-conv [![Build Status](https://travis-ci.org/damianpolak/rbg-hex-conv.svg?branch=master)](https://travis-ci.org/damianpolak/rbg-hex-conv)
+# rgb-hex-conv [![Build Status](https://travis-ci.org/damianpolak/rgb-hex-conv.svg?branch=master)](https://travis-ci.org/damianpolak/rgb-hex-conv)
 
 > Convert RGB values of a color to a hexadecimal notation 6-digit or 3-digit string
 
