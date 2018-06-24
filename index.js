@@ -1,6 +1,6 @@
 /*
- * rgbtohex
- * https://github.com/damianpolak/rgba-hex
+ * rgb-hex-conv
+ * https://github.com/damianpolak/rgb-hex-conv
  *
  * Copyright 2018, Damian Polak
  *
@@ -9,7 +9,7 @@
  *
  */
 
-module.exports = rgbaHex = (red, green, blue, short) => {
+module.exports = rgbHexConv = (red, green, blue, short) => {
    'use strict';
 
    if(red === undefined || green === undefined || blue === undefined) {
