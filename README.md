@@ -2,6 +2,12 @@
 
 > Convert RGB values of a color to a hexadecimal notation 6-digit or 3-digit string
 
+## Install
+
+```
+$ npm install rgb-hex-conv
+```
+
 ## Usage
 
 ```js
